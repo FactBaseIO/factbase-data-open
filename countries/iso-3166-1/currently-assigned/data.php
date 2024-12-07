@@ -149,7 +149,7 @@
     504 => array('id' => 504, 'alpha2' => 'MA', 'alpha3' => 'MAR', 'name' => 'Morocco'),
     508 => array('id' => 508, 'alpha2' => 'MZ', 'alpha3' => 'MOZ', 'name' => 'Mozambique'),
     104 => array('id' => 104, 'alpha2' => 'MM', 'alpha3' => 'MMR', 'name' => 'Myanmar'),
-    516 => array('id' => 516, 'alpha2' => 'nan', 'alpha3' => 'NAM', 'name' => 'Namibia'),
+    516 => array('id' => 516, 'alpha2' => 'NA', 'alpha3' => 'NAM', 'name' => 'Namibia'),
     520 => array('id' => 520, 'alpha2' => 'NR', 'alpha3' => 'NRU', 'name' => 'Nauru'),
     524 => array('id' => 524, 'alpha2' => 'NP', 'alpha3' => 'NPL', 'name' => 'Nepal'),
     528 => array('id' => 528, 'alpha2' => 'NL', 'alpha3' => 'NLD', 'name' => 'Netherlands'),
