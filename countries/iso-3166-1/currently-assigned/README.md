@@ -54,8 +54,20 @@ The open-source dataset includes the following data points about each country:
 
 These data points ensure you have a complete and up-to-date source of truth of currently assigned ISO 3166-1 country codes for integration into your applications.
 
-## Available Export Formats 
+## Available Data Formats 
 
+| **File Extension** | **Export Format** | **Internal Link**             | **Description**                                                                                       |
+|--------------------|-------------------|-------------------------------|-------------------------------------------------------------------------------------------------------|
+| `.csv`             | CSV               | [data.csv](./data.csv)         | Comma-separated values format, widely used for tabular data and compatible with spreadsheet software.   |
+| `.json`            | JSON              | [data.json](./data.json)       | JavaScript Object Notation, a lightweight format for data exchange commonly used in web APIs.           |
+| `.jsonl`           | JSONL             | [data.jsonl](./data.jsonl)     | JSON Lines format, a variant of JSON, where each line is a valid JSON object, ideal for large datasets. |
+| `.md`              | Markdown          | [data.md](./data.md)           | A plain text format with simple formatting syntax, often used for documentation.                       |
+| `.php`             | PHP               | [data.php](./data.php)         | A PHP serialized format, suitable for use with PHP applications and data manipulation.                  |
+| `.sql`             | SQL               | [data.sql](./data.sql)         | Structured Query Language file, used to define and manage relational databases.                         |
+| `.sqlite`          | SQLite            | [data.sqlite](./data.sqlite)   | SQLite database format, a self-contained, serverless, and zero-configuration SQL database.              |
+| `.tsv`             | TSV               | [data.tsv](./data.tsv)         | Tab-separated values, a text format similar to CSV, but using tabs as delimiters between data fields.   |
+| `.xml`             | XML               | [data.xml](./data.xml)         | eXtensible Markup Language, used for structured data representation with a focus on flexibility.         |
+| `.yaml`            | YAML              | [data.yaml](./data.yaml)       | YAML Ain't Markup Language, a human-readable data serialization format often used in configuration files.|
 
 
 ## Features
