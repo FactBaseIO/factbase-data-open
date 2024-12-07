@@ -38,14 +38,14 @@ The dataset includes the following data points, providing detailed information a
 
 | **Field Name**    | **dType**       | **Case**       | **Description**                                                                 |
 |--------------------|-----------------|----------------|---------------------------------------------------------------------------------|
-| `alpha_2`         | `string`        | Uppercase      | The ISO 3166-1 alpha-2 code: a two-letter code that represents a country.       |
-| `alpha_3`         | `string`        | Uppercase      | The ISO 3166-1 alpha-3 code: a three-letter code that represents a country.     |
-| `numeric`         | `string`        | N/A            | The ISO 3166-1 numeric code: a three-digit numeric representation of a country. |
-| `numeric_int`     | `integer`       | N/A            | The numeric code stored as an integer for easier programmatic use.              |
-| `name_short_en`   | `string`        | Title Case     | The short-form English name of the country.                                     |
-| `is_independent`  | `boolean`       | N/A            | Indicates whether the country is considered independent (`true` or `false`).    |
-| `status`          | `string`        | Snake Case     | The current ISO status of the country (e.g., assigned, unassigned).             |
-| `year_assigned`   | `integer`       | N/A            | The year in which the ISO code was officially assigned.                         |
+| `alpha_2`         | `string`        | `upper`      | The ISO 3166-1 alpha-2 code: a two-letter code that represents a country.       |
+| `alpha_3`         | `string`        | `upper`      | The ISO 3166-1 alpha-3 code: a three-letter code that represents a country.     |
+| `numeric`         | `string`        | `N/A`            | The ISO 3166-1 numeric code: a three-digit numeric representation of a country. |
+| `numeric_int`     | `integer`       | `N/A`            | The numeric code stored as an integer for easier programmatic use.              |
+| `name_short_en`   | `string`        | `title`     | The short-form English name of the country.                                     |
+| `is_independent`  | `boolean`       | `N/A`            | Indicates whether the country is considered independent (`true` or `false`).    |
+| `status`          | `string`        | `snake`     | The current ISO status of the country (e.g., assigned, unassigned).             |
+| `year_assigned`   | `integer`       | `N/A`            | The year in which the ISO code was officially assigned.                         |
 
 
 These data points ensure you have a complete and up-to-date source of truth of currently assigned ISO 3166-1 country codes for integration into your applications.
