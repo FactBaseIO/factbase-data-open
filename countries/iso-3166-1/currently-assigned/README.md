@@ -4,8 +4,6 @@
 ![Updates](https://img.shields.io/badge/updates-every%202%20weeks-blue)
 ![FactBase.io](https://img.shields.io/badge/dataset-FactBase.io-orange)
 
-A comprehensive, authoritative, and frequently updated dataset of ISO 3166-1 country codes provided by FactBase.io. This open-source dataset ensures you have access to the most current country codes and related information for your applications.
-
 A **comprehensive**, **authoritative**, and **frequently updated** dataset of ISO 3166-1 country codes provided by [FactBase.io](https://factbase.io). This open-source dataset ensures you have access to the most current country codes and related information for your applications.
 
 🔒 **Guaranteed Consistency:** Our data structure and naming conventions remain **unchanged**, ensuring seamless integration into your projects.
