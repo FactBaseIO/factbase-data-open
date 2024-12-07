@@ -44,7 +44,7 @@ The dataset includes the following data points, providing detailed information a
 | `numeric_int`     | `integer`       | `N/A`            | The numeric code stored as an integer for easier programmatic use.              |
 | `name_short_en`   | `string`        | `title`     | The short-form English name of the country.                                     |
 | `is_independent`  | `boolean`       | `N/A`            | Indicates whether the country is considered independent (`true` or `false`).    |
-| `status`          | `string`        | Lowercase      | The current ISO status of the country (e.g., `officially_assigned`, `unassigned`). In this dataset, all countries are set to `officially_assigned`. |
+| `status`          | `string`        | `snake`      | The current ISO status of the country (e.g., `officially_assigned`, `unassigned`). In this dataset, all countries are set to `officially_assigned`. |
 | `year_assigned`   | `integer`       | `N/A`            | The year in which the ISO code was officially assigned.                         |
 
 
