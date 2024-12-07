@@ -37,7 +37,7 @@
 > [!IMPORTANT]  
 > The **data structure**, **field names**, and **naming conventions** are **fixed and will never change**, providing stable and reliable integration into your projects without the risk of future disruptions.
 
-The dataset includes the following data points, providing detailed information about each country:
+The open-source dataset includes the following data points about each country:
 
 | **Field Name**    | **dType**       | **Case**       | **Description**                                                                 |
 |--------------------|-----------------|----------------|---------------------------------------------------------------------------------|
