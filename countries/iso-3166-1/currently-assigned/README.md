@@ -57,7 +57,7 @@ These data points ensure you have a complete and up-to-date source of truth of c
 ## Available Data Formats 
 
 > [!IMPORTANT]  
-> The availability of all the data formats listed below is **guaranteed to remain unchanged indefinitely**. The GitHub paths to these files (e.g., data.xxx for each format) will not be altered, except for changes made by GitHub's system or infrastructure which is out of our control. Additionally, the **data structure and naming conventions are guaranteed to remain consistent**, ensuring seamless and reliable integration into your projects.
+> The availability of all the data formats listed below is **guaranteed to remain unchanged indefinitely**. The GitHub paths to these files (e.g., data.xxx for each format) will not be altered, except for changes made by GitHub's system or infrastructure which is out of FactBase's control. Additionally, the **data structure and naming conventions are guaranteed to remain consistent**, ensuring seamless and reliable integration into your projects.
 
 | **File Extension** | **Export Format** | **Internal Link**             | **Description**                                                                                       |
 |--------------------|-------------------|-------------------------------|-------------------------------------------------------------------------------------------------------|
