@@ -148,7 +148,7 @@
 {"alpha_2": "MA", "alpha_3": "MAR", "numeric": "504", "numeric_int": 504, "name_short_en": "Morocco", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "MZ", "alpha_3": "MOZ", "numeric": "508", "numeric_int": 508, "name_short_en": "Mozambique", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "MM", "alpha_3": "MMR", "numeric": "104", "numeric_int": 104, "name_short_en": "Myanmar", "is_independent": true, "status": "officially_assigned", "year_assigned": 1989}
-{"alpha_2": NaN, "alpha_3": "NAM", "numeric": "516", "numeric_int": 516, "name_short_en": "Namibia", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
+{"alpha_2": "NA", "alpha_3": "NAM", "numeric": "516", "numeric_int": 516, "name_short_en": "Namibia", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "NR", "alpha_3": "NRU", "numeric": "520", "numeric_int": 520, "name_short_en": "Nauru", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "NP", "alpha_3": "NPL", "numeric": "524", "numeric_int": 524, "name_short_en": "Nepal", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "NL", "alpha_3": "NLD", "numeric": "528", "numeric_int": 528, "name_short_en": "Netherlands", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
