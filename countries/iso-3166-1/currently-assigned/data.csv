@@ -48,8 +48,8 @@
 "CX","CXR","162",162,"Christmas Island",False,"officially_assigned",1974
 "CC","CCK","166",166,"Cocos (Keeling) Islands",False,"officially_assigned",1974
 "CO","COL","170",170,"Colombia",True,"officially_assigned",1974
-"KM","COM","174",174,"Comoros (the)",True,"officially_assigned",1974
-"CG","COG","178",178,"Congo (the)",True,"officially_assigned",1974
+"KM","COM","174",174,"Comoros",True,"officially_assigned",1974
+"CG","COG","178",178,"Congo",True,"officially_assigned",1974
 "CD","COD","180",180,"Congo (Democratic Republic)",True,"officially_assigned",1997
 "CK","COK","184",184,"Cook Islands",False,"officially_assigned",1974
 "CR","CRI","188",188,"Costa Rica",True,"officially_assigned",1974
@@ -156,7 +156,7 @@
 "NC","NCL","540",540,"New Caledonia",False,"officially_assigned",1974
 "NZ","NZL","554",554,"New Zealand",True,"officially_assigned",1974
 "NI","NIC","558",558,"Nicaragua",True,"officially_assigned",1974
-"NE","NER","562",562,"Niger (the)",True,"officially_assigned",1974
+"NE","NER","562",562,"Niger",True,"officially_assigned",1974
 "NG","NGA","566",566,"Nigeria",True,"officially_assigned",1974
 "NU","NIU","570",570,"Niue",False,"officially_assigned",1974
 "NF","NFK","574",574,"Norfolk Island",False,"officially_assigned",1974
@@ -209,7 +209,7 @@
 "SS","SSD","728",728,"South Sudan",True,"officially_assigned",2011
 "ES","ESP","724",724,"Spain",True,"officially_assigned",1974
 "LK","LKA","144",144,"Sri Lanka",True,"officially_assigned",1974
-"SD","SDN","729",729,"Sudan (the)",True,"officially_assigned",1974
+"SD","SDN","729",729,"Sudan",True,"officially_assigned",1974
 "SR","SUR","740",740,"Suriname",True,"officially_assigned",1974
 "SJ","SJM","744",744,"Svalbard and Jan Mayen",False,"officially_assigned",1974
 "SE","SWE","752",752,"Sweden",True,"officially_assigned",1974
