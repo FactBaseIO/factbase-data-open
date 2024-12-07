@@ -72,6 +72,8 @@ These data points ensure you have a complete and up-to-date source of truth of c
 | `.xml`             | XML               | [data.xml](./data.xml)         | eXtensible Markup Language, used for structured data representation with a focus on flexibility.         |
 | `.yaml`            | YAML              | [data.yaml](./data.yaml)       | YAML Ain't Markup Language, a human-readable data serialization format often used in configuration files.|
 
+> [!TIP]
+> Additionally, the data can also be directly accessed and integrated using the [FactBase Python SDK](https://github.com/FactBaseIO/factbase-python) or the [FactBase JavaScript SDK](https://github.com/FactBaseIO/factbase-javascript), providing seamless interaction with the dataset through your preferred development environment.
 
 
 
