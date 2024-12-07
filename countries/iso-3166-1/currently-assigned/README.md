@@ -40,7 +40,7 @@ The dataset includes the following data points, providing detailed information a
 |--------------------|-----------------|----------------|---------------------------------------------------------------------------------|
 | `alpha_2`         | `string`        | `upper`      | The ISO 3166-1 alpha-2 code: a two-letter code that represents a country.       |
 | `alpha_3`         | `string`        | `upper`      | The ISO 3166-1 alpha-3 code: a three-letter code that represents a country.     |
-| `numeric`         | `string`        | `N/A`            | The ISO 3166-1 numeric code: a three-digit numeric representation of a country. |
+| `numeric`         | `string`        | `N/A`            | The ISO 3166-1 numeric code: a three-digit zero-padded numeric representation of a country. |
 | `numeric_int`     | `integer`       | `N/A`            | The numeric code stored as an integer for easier programmatic use.              |
 | `name_short_en`   | `string`        | `title`     | The short-form English name of the country.                                     |
 | `is_independent`  | `boolean`       | `N/A`            | Indicates whether the country is considered independent (`true` or `false`).    |
