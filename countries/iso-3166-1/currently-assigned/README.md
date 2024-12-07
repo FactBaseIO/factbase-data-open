@@ -5,7 +5,7 @@
     <img src="https://avatars.githubusercontent.com/u/189719285?s=400&u=992d9018b9bb4c7458ea22cc4106022e877c0908&v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Current ISO 3166-1 Confrom Country Codes | Dataset</h3>
+  <h3 align="center">Current ISO 3166-1 Conform Country Codes | Dataset</h3>
 
   <p>
     A <strong>comprehensive</strong>, <strong>authoritative</strong>, and <strong>frequently updated</strong> dataset of ISO 3166-1 conform country codes provided by 
