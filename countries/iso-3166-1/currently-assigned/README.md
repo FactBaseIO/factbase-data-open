@@ -205,6 +205,7 @@ Our focus is to provide you with flexible, scalable, and future-proof solutions 
 ---
 
 ### Services for Startups
+---
 
 We understand the unique challenges faced by **startups** as they scale rapidly and innovate in competitive markets. FactBase offers dedicated services tailored for startups, ensuring you can integrate and manage country code data efficiently from day one, without the overhead of complex infrastructure or resources.
 
