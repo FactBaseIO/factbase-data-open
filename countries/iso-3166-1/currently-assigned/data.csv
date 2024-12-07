@@ -1,609 +1,250 @@
-alpha_2,alpha_3,numeric,name_short_en,name_short_fr,name_formal_en,name_fromal_fr,name_local,is_independent,status,year_assigned
-AF,AFG,004,Afghanistan,Afghanistan (l'),the Islamic Republic of Afghanistan,la République islamique d'Afghanistan,Afghānistān,TRUE,officially_assigned,1974
-AX,ALA,248,Åland Islands,Åland(les Îles),,,Åland,FALSE,officially_assigned,2004
-AL,ALB,008,Albania,Albanie (l'),the Republic of Albania,la République d'Albanie,"[""Shqipëria"", ""Shqipëri""]",TRUE,officially_assigned,1974
-DZ,DZA,012,Algeria,Algérie (l'),the People's Democratic Republic of Algeria,la République algérienne démocratique et populaire,Al Jazā'ir,TRUE,officially_assigned,1974
-AS,ASM,016,American Samoa,Samoa américaines (les),,,American Samoa,FALSE,officially_assigned,1974
-AD,AND,020,Andorra,Andorre (l'),the Principality of Andorra,"la Principauté d'Andorre
-",Andorra,TRUE,officially_assigned,1974
-AO,AGO,024,Angola,Angola (l'),the Republic of Angola,"la République d'Angola
-","Angola
-",TRUE,officially_assigned,1974
-AI,AIA,660,Anguilla,Anguilla,,,Anguilla,FALSE,officially_assigned,1985
-AQ,ATA,010,Antarctica,Antarctique (l'),,,,FALSE,officially_assigned,1974
-AG,ATG,028,Antigua and Barbuda,Antigua-et-Barbuda,,,"Antigua and Barbuda
-",TRUE,officially_assigned,1974
-AR,ARG,032,Argentina,Argentine (l'),the Argentine Republic,"la République argentine
-",Argentina,TRUE,officially_assigned,1974
-AM,ARM,051,Armenia,Arménie (l'),the Republic of Armenia,"la République d'Arménie
-",Hayastan,TRUE,officially_assigned,1992
-AW,ABW,533,Aruba,Aruba,,,Aruba,FALSE,officially_assigned,1986
-AU,AUS,036,Australia,Australie (l'),,,Australia,TRUE,officially_assigned,1974
-AT,AUT,040,Austria,Autriche (l'),the Republic of Austria,"la République d'Autriche
-",Österreich,TRUE,officially_assigned,1974
-AZ,AZE,031,Azerbaijan,Azerbaïdjan (l'),the Republic of Azerbaijan,"la République d'Azerbaïdjan
-",Azərbaycan,TRUE,officially_assigned,1992
-BS,BHS,044,Bahamas (the),Bahamas (les),the Commonwealth of the Bahamas,"le Commonwealth des Bahamas
-","Bahamas (the)
-",TRUE,officially_assigned,1974
-BH,BHR,048,Bahrain,Bahreïn,the Kingdom of Bahrain,"le Royaume de Bahreïn
-","Al Baḩrayn
-",TRUE,officially_assigned,1974
-BD,BGD,050,Bangladesh,Bangladesh (le),the People's Republic of Bangladesh,"la République populaire du Bangladesh
-",Bāṁlādesh,TRUE,officially_assigned,1974
-BB,BRB,052,Barbados,Barbade (la),,,Barbados,TRUE,officially_assigned,1974
-BY,BLR,112,Belarus,Bélarus (le),the Republic of Belarus,"la République du Bélarus
-","[""Bielaruś"", ""Belarus'""]",TRUE,officially_assigned,1974
-BE,BEL,056,Belgium,Belgique (la),the Kingdom of Belgium,"le Royaume de Belgique
-","[""Belgien"", ""Belgique"", ""België""]",TRUE,officially_assigned,1974
-BZ,BLZ,084,Belize,Belize (le),,,Belize,TRUE,officially_assigned,1974
-BJ,BEN,204,Benin,Bénin (le),the Republic of Benin,"la République du Bénin
-",Bénin,TRUE,officially_assigned,1977
-BM,BMU,060,Bermuda,Bermudes (les),,,"Bermuda
-",FALSE,officially_assigned,1974
-BT,BTN,064,Bhutan,Bhoutan (le),the Kingdom of Bhutan,"le Royaume du Bhoutan
-","Druk-Yul
-",TRUE,officially_assigned,1974
-BO,BOL,068,Bolivia (Plurinational State of),Bolivie (État plurinational de),the Plurinational State of Bolivia,"l'État plurinational de Bolivie
-","Bolivia, Estado Plurinacional de
-",TRUE,officially_assigned,1974
-BA,BIH,070,Bosnia and Herzegovina,Bosnie-Herzégovine (la),,,Bosna i Hercegovina,TRUE,officially_assigned,1992
-BW,BWA,072,Botswana,Botswana (le),the Republic of Botswana,"la République du Botswana
-",Botswana,TRUE,officially_assigned,1974
-BV,BVT,074,Bouvet Island,,,,Bouvetøya,FALSE,officially_assigned,1974
-BR,BRA,076,Brazil,Brésil (le),the Federative Republic of Brazil,"la République fédérative du Brésil
-",Brasil (o),TRUE,officially_assigned,1974
-IO,IOT,086,British Indian Ocean Territory (the),Indien (le Territoire britannique de l'océan),,"le Territoire britannique de l'océan Indien
-","British Indian Ocean Territory (the)
-",FALSE,officially_assigned,1974
-BN,BRN,096,Brunei Darussalam,Brunéi Darussalam (le),,,"[""Brunei Darussalam"", ""Negara Brunei Darussalam""]",TRUE,officially_assigned,1974
-BG,BGR,100,Bulgaria,Bulgarie (la),the Republic of Bulgaria,"la République de Bulgarie
-",Bulgaria,TRUE,officially_assigned,1974
-BF,BFA,854,Burkina Faso,Burkina Faso (le),,"le Burkina Faso
-","Burkina Faso
-",TRUE,officially_assigned,1984
-BI,BDI,108,Burundi,Burundi (le),the Republic of Burundi,"la République du Burundi
-",Burundi,TRUE,officially_assigned,1974
-KH,KHM,116,Cambodia,Cambodge (le),the Kingdom of Cambodia,"le Royaume du Cambodge
-","Kâmpŭchéa
-",TRUE,officially_assigned,1974
-CM,CMR,120,Cameroon,Cameroun (le),the Republic of Cameroon,"la République du Cameroun
-","[""Cameroon"", ""Cameroun""]",TRUE,officially_assigned,1974
-CA,CAN,124,Canada,Canada (le),,,Canada,TRUE,officially_assigned,1974
-CV,CPV,132,Cabo Verde,Cabo Verde,the Republic of Cabo Verde,"la République du Cabo Verde
-","Cabo Verde
-",TRUE,officially_assigned,1974
-BQ,BES,535,"Bonaire, Sint Eustatius and Saba","Bonaire, Saint-Eustache et Saba",,,"[""Bonaire, Sint Eustatius and Saba"", ""Bonaire, Sint Eustatius en Saba"", ""Boneiru, Sint Eustatius y Saba""]",FALSE,officially_assigned,2010
-KY,CYM,136,Cayman Islands (the),Caïmans (les Îles),,,"Cayman Islands (the)
-",FALSE,officially_assigned,1974
-CF,CAF,140,Central African Republic (the),République centrafricaine (la),the Central African Republic,"la République centrafricaine
-","[""République centrafricaine"", ""Ködörösêse tî Bêafrîka""]",TRUE,officially_assigned,1974
-TD,TCD,148,Chad,Tchad (le),the Republic of Chad,"la République du Tchad
-","[""Tshād"", ""Tchad""]",TRUE,officially_assigned,1974
-CL,CHL,152,Chile,Chili (le),the Republic of Chile,"la République du Chili
-",Chile,TRUE,officially_assigned,1974
-CN,CHN,156,China,Chine (la),the People's Republic of China,"la République populaire de Chine
-","Zhongguo
-",TRUE,officially_assigned,1974
-CX,CXR,162,Christmas Island,Christmas (l'Île),,,"Christmas Island
-",FALSE,officially_assigned,1974
-CC,CCK,166,Cocos (Keeling) Islands (the),Cocos (les Îles)/ Keeling (les Îles),,,"Cocos (Keeling) Islands (the)
-",FALSE,officially_assigned,1974
-CO,COL,170,Colombia,Colombie (la),the Republic of Colombia,"la République de Colombie
-","Colombia
-",TRUE,officially_assigned,1974
-KM,COM,174,Comoros (the),Comores (les),the Union of the Comoros,"l'Union des Comores
-","[""Komori"", ""Al Qamar"", ""Comores""]",TRUE,officially_assigned,1974
-CG,COG,178,Congo (the),Congo (le),the Republic of the Congo,"la République du Congo
-","Congo (le)
-",TRUE,officially_assigned,1974
-CD,COD,180,Congo (the Democratic Republic of the),Congo (la République démocratique du),the Democratic Republic of the Congo,"la République démocratique du Congo
-","Congo (la République démocratique du)
-",TRUE,officially_assigned,1997
-CK,COK,184,Cook Islands (the),Cook (les Îles),,,"Cook Islands (the)
-",FALSE,officially_assigned,1974
-CR,CRI,188,Costa Rica,Costa Rica (le),the Republic of Costa Rica,"la République du Costa Rica
-","Costa Rica
-",TRUE,officially_assigned,1974
-HR,HRV,191,Croatia,Croatie (la),the Republic of Croatia,"la République de Croatie
-","Hrvatska
-",TRUE,officially_assigned,1992
-CU,CUB,192,Cuba,Cuba,the Republic of Cuba,"la République de Cuba
-",Cuba,TRUE,officially_assigned,1974
-CW,CUW,531,Curaçao,Curaçao,,,"[""Curaçao"", ""Curaçao"", ""Kòrsou""]",FALSE,officially_assigned,2010
-CY,CYP,196,Cyprus,Chypre,the Republic of Cyprus,"la République de Chypre
-","[""Kýpros"", ""Kıbrıs""]",TRUE,officially_assigned,1974
-CZ,CZE,203,Czechia,Tchéquie (la),the Czech Republic,"la République tchèque
-",Česko,TRUE,officially_assigned,1993
-DK,DNK,208,Denmark,Danemark (le),the Kingdom of Denmark,"le Royaume du Danemark
-","Danmark
-",TRUE,officially_assigned,1974
-DJ,DJI,262,Djibouti,Djibouti,the Republic of Djibouti,"la République de Djibouti
-","[""Jībūtī"", ""Djibouti""]",TRUE,officially_assigned,1977
-DM,DMA,212,Dominica,Dominique (la),the Commonwealth of Dominica,"le Commonwealth de Dominique
-",Dominica,TRUE,officially_assigned,1974
-DO,DOM,214,Dominican Republic (the),dominicaine (la République),the Dominican Republic,"la République dominicaine
-","República Dominicana
-",TRUE,officially_assigned,1974
-EC,ECU,218,Ecuador,Équateur (l'),the Republic of Ecuador,"la République d'Équateur
-","Ecuador
-",TRUE,officially_assigned,1974
-EG,EGY,818,Egypt,Égypte (l'),the Arab Republic of Egypt,"la République arabe d'Égypte
-","Mişr
-",TRUE,officially_assigned,1974
-SV,SLV,222,El Salvador,El Salvador,the Republic of El Salvador,"la République d'El Salvador
-","El Salvador
-",TRUE,officially_assigned,1974
-GQ,GNQ,226,Equatorial Guinea,Guinée équatoriale (la),the Republic of Equatorial Guinea,"la République de Guinée équatoriale
-","[""Guinée équatoriale"", ""Guiné Equatorial"", ""Guinea Ecuatorial""]",TRUE,officially_assigned,1974
-ER,ERI,232,Eritrea,Érythrée (l'),the State of Eritrea,"l'État d'Érythrée
-","[""Irītrīyā"", ""Eritrea"", ""Iertra""]",TRUE,officially_assigned,1993
-EE,EST,233,Estonia,Estonie (l'),the Republic of Estonia,"la République d'Estonie
-",Eesti,TRUE,officially_assigned,1992
-SZ,SWZ,748,Eswatini,Eswatini (l'),the Kingdom of Eswatini,"le Royaume d’Eswatini
-",Eswatini,TRUE,officially_assigned,1974
-ET,ETH,231,Ethiopia,Éthiopie (l'),the Federal Democratic Republic of Ethiopia,la République fédérale démocratique d'Éthiopie,"Ītyop'iya
-",TRUE,officially_assigned,1974
-FK,FLK,238,Falkland Islands (the) [Malvinas],Falkland (les Îles)/Malouines (les Îles),,,"Falkland Islands
-",FALSE,officially_assigned,1974
-FO,FRO,234,Faroe Islands (the),Féroé (les Îles),,,"[""Færøerne"", ""Føroyar""]",FALSE,officially_assigned,1974
-FJ,FJI,242,Fiji,Fidji (les),the Republic of Fiji,"la République des Fidji
-","[""Fiji"", ""Viti""]",TRUE,officially_assigned,1974
-FI,FIN,246,Finland,Finlande (la),the Republic of Finland,"la République de Finlande
-","[""Suomi"", ""Finland""]",TRUE,officially_assigned,1974
-FR,FRA,250,France,France (la),the French Republic,"la République française
-","France
-",TRUE,officially_assigned,1974
-GF,GUF,254,French Guiana,Guyane française (la ),,,"Guyane française
-",FALSE,officially_assigned,1974
-PF,PYF,258,French Polynesia,Polynésie française (la),,,"Polynésie française
-",FALSE,officially_assigned,1974
-TF,ATF,260,French Southern Territories (the),Terres australes françaises (les),,,"Terres australes françaises
-",FALSE,officially_assigned,1979
-GA,GAB,266,Gabon,Gabon (le),the Gabonese Republic,"la République gabonaise
-","Gabon
-",TRUE,officially_assigned,1974
-GM,GMB,270,Gambia (the),Gambie (la),the Republic of the Gambia,"la République de Gambie
-","Gambia
-",TRUE,officially_assigned,1974
-GE,GEO,268,Georgia,Géorgie (la),,,"Sakartvelo
-",TRUE,officially_assigned,1992
-DE,DEU,276,Germany,Allemagne (l'),the Federal Republic of Germany,"la République fédérale d'Allemagne
-",Deutschland,TRUE,officially_assigned,1974
-GH,GHA,288,Ghana,Ghana (le),the Republic of Ghana,"la République du Ghana
-",Ghana,TRUE,officially_assigned,1974
-GI,GIB,292,Gibraltar,Gibraltar,,,"Gibraltar
-",FALSE,officially_assigned,1974
-GR,GRC,300,Greece,Grèce (la),the Hellenic Republic,"la République hellénique
-","Elláda
-",TRUE,officially_assigned,1974
-GL,GRL,304,Greenland,Groenland (le),,,"[""Grønland"", ""Kalaallit Nunaat""]",FALSE,officially_assigned,1974
-GD,GRD,308,Grenada,Grenade (la),,,Grenada,TRUE,officially_assigned,1974
-GP,GLP,312,Guadeloupe,Guadeloupe (la),,,"Guadeloupe
-",FALSE,officially_assigned,1974
-GU,GUM,316,Guam,Guam,,,Guam,FALSE,officially_assigned,1974
-GT,GTM,320,Guatemala,Guatemala (le),the Republic of Guatemala,"la République du Guatemala
-","Guatemala
-",TRUE,officially_assigned,1974
-GG,GGY,831,Guernsey,Guernesey,,,"[""Guernsey"", ""Guernesey""]",FALSE,officially_assigned,2006
-GN,GIN,324,Guinea,Guinée (la),the Republic of Guinea,"la République de Guinée
-","Guinée
-",TRUE,officially_assigned,1974
-GW,GNB,624,Guinea-Bissau,Guinée-Bissau (la),the Republic of Guinea-Bissau,"la République de Guinée-Bissau
-","Guiné-Bissau
-",TRUE,officially_assigned,1974
-GY,GUY,328,Guyana,Guyana (le),the Co-operative Republic of Guyana,"la République coopérative du Guyana
-",Guyana,TRUE,officially_assigned,1974
-HT,HTI,332,Haiti,Haïti,the Republic of Haiti,"la République d'Haïti
-","[""Haïti"", ""Ayiti""]",TRUE,officially_assigned,1974
-HM,HMD,334,Heard Island and McDonald Islands,Heard-et-Îles MacDonald (l'Île),,ll'Île Heard-et-Îles MacDonald,"Heard Island and McDonald Islands
-",FALSE,officially_assigned,1974
-HN,HND,340,Honduras,Honduras (le),the Republic of Honduras,"la République du Honduras
-","Honduras
-",TRUE,officially_assigned,1974
-HK,HKG,344,Hong Kong,Hong Kong,the Hong Kong Special Administrative Region of China,"Hong Kong, Région administrative spéciale de Chine
-","[""Hong Kong"", ""Xianggang""]",FALSE,officially_assigned,1974
-HU,HUN,348,Hungary,Hongrie (la),,,"Magyarország
-",TRUE,officially_assigned,1974
-IS,ISL,352,Iceland,Islande (l'),,,"Ísland
-",TRUE,officially_assigned,1974
-IN,IND,356,India,Inde (l'),the Republic of India,"la République de l'Inde
-","[""India"", ""Bhārat""]",TRUE,officially_assigned,1974
-ID,IDN,360,Indonesia,Indonésie (l'),the Republic of Indonesia,"la République d'Indonésie
-",Indonesia,TRUE,officially_assigned,1974
-IR,IRN,364,Iran (Islamic Republic of),Iran (République Islamique d'),the Islamic Republic of Iran,"la République islamique d'Iran
-","Jomhūrī-ye Eslāmī-ye Īrān
-",TRUE,officially_assigned,1974
-IQ,IRQ,368,Iraq,Iraq (l'),the Republic of Iraq,"la République d'Iraq
-","[""Al ‘Irāq"", ""‘Êraq""]",TRUE,officially_assigned,1974
-IE,IRL,372,Ireland,Irlande (l'),,,"[""Ireland"", ""Éire""]",TRUE,officially_assigned,1974
-IM,IMN,833,Isle of Man,Île de Man,,,"Isle of Man
-",FALSE,officially_assigned,2006
-IL,ISR,376,Israel,Israël,the State of Israel,"l'État d'Israël
-","[""Isrā'īl"", ""Yisra'el""]",TRUE,officially_assigned,1974
-IT,ITA,380,Italy,Italie (l'),the Republic of Italy,"la République italienne
-","Italia
-",TRUE,officially_assigned,1974
-CI,CIV,384,Côte d'Ivoire,Côte d'Ivoire (la),Côte d'Ivoire,"la République de Côte d'Ivoire
-","Côte d'Ivoire
-",TRUE,officially_assigned,1974
-JM,JAM,388,Jamaica,Jamaïque (la),,,"Jamaica
-",TRUE,officially_assigned,1974
-JP,JPN,392,Japan,Japon (le),,,"[""Nihon"", ""Nippon""]",TRUE,officially_assigned,1974
-JE,JEY,832,Jersey,Jersey,,,Jersey,FALSE,officially_assigned,2006
-JO,JOR,400,Jordan,Jordanie (la),the Hashemite Kingdom of Jordan,"le Royaume hachémite de Jordanie
-","Al Urdun
-",TRUE,officially_assigned,1974
-KZ,KAZ,398,Kazakhstan,Kazakhstan (le),the Republic of Kazakhstan,"la République du Kazakhstan
-","[""Qazaqstan"", ""Kazahstan""]",TRUE,officially_assigned,1992
-KE,KEN,404,Kenya,Kenya (le),the Republic of Kenya,"la République du Kenya
-",Kenya,TRUE,officially_assigned,1974
-KI,KIR,296,Kiribati,Kiribati,the Republic of Kiribati,"la République de Kiribati
-",Kiribati,TRUE,officially_assigned,1979
-KW,KWT,414,Kuwait,Koweït (le),the State of Kuwait,l'État du Koweït,"Al Kuwayt
-",TRUE,officially_assigned,1974
-KG,KGZ,417,Kyrgyzstan,Kirghizistan (le),the Kyrgyz Republic,"la République kirghize
-",Kyrgyzstan,TRUE,officially_assigned,1992
-LA,LAO,418,Lao People's Democratic Republic (the),Lao (la République démocratique populaire),the Lao People's Democratic Republic,"la République démocratique populaire lao
-","Sathalanalat Paxathipatai Paxaxôn Lao
-",TRUE,officially_assigned,1974
-LV,LVA,428,Latvia,Lettonie (la),the Republic of Latvia,la République de Lettonie,Latvija,TRUE,officially_assigned,1992
-LB,LBN,422,Lebanon,Liban (le),the Lebanese Republic,"la République libanaise
-",Lubnān,TRUE,officially_assigned,1974
-LS,LSO,426,Lesotho,Lesotho (le),the Kingdom of Lesotho,"le Royaume du Lesotho
-",Lesotho,TRUE,officially_assigned,1974
-LR,LBR,430,Liberia,Libéria (le),the Republic of Liberia,"la République du Libéria
-",Liberia,TRUE,officially_assigned,1974
-LY,LBY,434,Libya,Libye (la),the State of Libya,"l'État de Libye
-",Lībiyā,TRUE,officially_assigned,1974
-LI,LIE,438,Liechtenstein,Liechtenstein (le),the Principality of Liechtenstein,"la Principauté du Liechtenstein
-","Liechtenstein
-",TRUE,officially_assigned,1974
-LT,LTU,440,Lithuania,Lituanie (la),the Republic of Lithuania,"la République de Lituanie
-",Lietuva,TRUE,officially_assigned,1992
-LU,LUX,442,Luxembourg,Luxembourg (le),the Grand Duchy of Luxembourg,"le Grand-Duché de Luxembourg
-","[""Luxemburg"", ""Luxembourg"", ""Lëtzebuerg""]",TRUE,officially_assigned,1974
-MO,MAC,446,Macao,Macao,Macao Special Administrative Region of China,"Macao, Région administrative spéciale de Chine
-","[""Macau"", ""Aomen""]",FALSE,officially_assigned,1974
-MG,MDG,450,Madagascar,Madagascar,"the Republic of Madagascar
-","la République de Madagascar
-","[""Madagascar"", ""Madagasikara""]",TRUE,officially_assigned,1974
-MW,MWI,454,Malawi,Malawi (le),"the Republic of Malawi
-","la République du Malawi
-","[""Malawi"", ""Malaŵi""]",TRUE,officially_assigned,1974
-MY,MYS,458,Malaysia,Malaisie (la),,,Malaysia,TRUE,officially_assigned,1974
-MV,MDV,462,Maldives,Maldives (les),"the Republic of Maldives
-","la République des Maldives
-","Dhivehi Raajje
-",TRUE,officially_assigned,1974
-ML,MLI,466,Mali,Mali (le),"the Republic of Mali
-","la République du Mali
-","Mali
-",TRUE,officially_assigned,1974
-MT,MLT,470,Malta,Malte,"the Republic of Malta
-","la République de Malte
-",Malta,TRUE,officially_assigned,1974
-MH,MHL,584,Marshall Islands (the),Marshall (les Îles),"the Republic of the Marshall Islands
-","la République des Îles Marshall
-","[""Marshall Islands (the)"", ""Aelōn̄ in M̧ajeļ""]",TRUE,officially_assigned,1986
-MQ,MTQ,474,Martinique,Martinique (la),,,"Martinique
-",FALSE,officially_assigned,1974
-MR,MRT,478,Mauritania,Mauritanie (la),"the Islamic Republic of Mauritania
-","la République islamique de Mauritanie
-","Mūrītāniyā
-",TRUE,officially_assigned,1974
-MU,MUS,480,Mauritius,Maurice,"the Republic of Mauritius
-","la République de Maurice
-",Mauritius,TRUE,officially_assigned,1974
-YT,MYT,175,Mayotte,Mayotte,,,Mayotte,FALSE,officially_assigned,1993
-MX,MEX,484,Mexico,Mexique (le),"the United Mexican States
-","les États-Unis du Mexique
-",México,TRUE,officially_assigned,1974
-FM,FSM,583,Micronesia (Federated States of),Micronésie (États fédérés de),"the Federated States of Micronesia
-","les États fédérés de Micronésie
-","Micronesia (Federated States of)
-",TRUE,officially_assigned,1986
-MD,MDA,498,Moldova (the Republic of),Moldova (la République de),the Republic of Moldova,la République de Moldova,Republica Moldova,TRUE,officially_assigned,1992
-MC,MCO,492,Monaco,Monaco,"the Principality of Monaco
-","la Principauté de Monaco
-","Monaco
-",TRUE,officially_assigned,1974
-MN,MNG,496,Mongolia,Mongolie (la),,,Mongol,TRUE,officially_assigned,1974
-ME,MNE,499,Montenegro,Monténégro (le),,"Monténégro
-","Crna Gora
-",TRUE,officially_assigned,2006
-MS,MSR,500,Montserrat,Montserrat,,,Montserrat,FALSE,officially_assigned,1974
-MA,MAR,504,Morocco,Maroc (le),"the Kingdom of Morocco
-","le Royaume du Maroc
-","Al Maghrib
-",TRUE,officially_assigned,1974
-MZ,MOZ,508,Mozambique,Mozambique (le),"the Republic of Mozambique
-","la République du Mozambique
-",Moçambique,TRUE,officially_assigned,1974
-MM,MMR,104,Myanmar,Myanmar (le),"the Republic of the Union of Myanmar
-",la République de l'Union du Myanmar,Myanma,TRUE,officially_assigned,1989
-NA,NAM,516,Namibia,Namibie (la),"the Republic of Namibia
-",la République de Namibie,Namibia,TRUE,officially_assigned,1974
-NR,NRU,520,Nauru,Nauru,"the Republic of Nauru
-","la République de Nauru
-","[""Nauru"", ""Naoero""]",TRUE,officially_assigned,1974
-NP,NPL,524,Nepal,Népal (le),,,Nepāl,TRUE,officially_assigned,1974
-NL,NLD,528,Netherlands (Kingdom of the),Pays-Bas (Royaume des),"the Kingdom of the Netherlands
-","le Royaume des Pays-Bas
-",Nederland,TRUE,officially_assigned,1974
-NC,NCL,540,New Caledonia,Nouvelle-Calédonie (la),,,"Nouvelle-Calédonie
-",FALSE,officially_assigned,1974
-NZ,NZL,554,New Zealand,Nouvelle-Zélande (la),,,"[""New Zealand"", ""Aotearoa""]",TRUE,officially_assigned,1974
-NI,NIC,558,Nicaragua,Nicaragua (le),"the Republic of Nicaragua
-","la République du Nicaragua
-",Nicaragua,TRUE,officially_assigned,1974
-NE,NER,562,Niger (the),Niger (le),"the Republic of the Niger
-","la République du Niger
-","Niger
-",TRUE,officially_assigned,1974
-NG,NGA,566,Nigeria,Nigéria (le),"the Federal Republic of Nigeria
-","la République fédérale du Nigéria
-",Nigeria,TRUE,officially_assigned,1974
-NU,NIU,570,Niue,Niue,,,Niue,FALSE,officially_assigned,1974
-NF,NFK,574,Norfolk Island,Norfolk (l'Île),,,"Norfolk Island
-",FALSE,officially_assigned,1974
-KP,PRK,408,Korea (the Democratic People's Republic of),Corée (la République populaire démocratique de),"the Democratic People's Republic of Korea
-","la République populaire démocratique de Corée
-","Chosŏn
-",TRUE,officially_assigned,1974
-MK,MKD,807,North Macedonia,Macédoine du Nord (la),"the Republic of North Macedonia
-","la République de Macédoine du Nord
-","Severna Makedonija
-",TRUE,officially_assigned,1993
-MP,MNP,580,Northern Mariana Islands (the),Mariannes du Nord (les Îles),"the Commonwealth of the Northern Mariana Islands
-","les Îles Mariannes du Nord
-","Northern Mariana Islands
-",FALSE,officially_assigned,1986
-NO,NOR,578,Norway,Norvège (la),"the Kingdom of Norway
-","le Royaume de Norvège
-","[""Noreg"", ""Norge""]",TRUE,officially_assigned,1974
-OM,OMN,512,Oman,Oman,"the Sultanate of Oman
-","le Sultanat d'Oman
-","‘Umān
-",TRUE,officially_assigned,1974
-PK,PAK,586,Pakistan,Pakistan (le),"the Islamic Republic of Pakistan
-","la République islamique du Pakistan
-","[""Pakistan"", ""Pākistān""]",TRUE,officially_assigned,1974
-PW,PLW,585,Palau,Palaos (les),"the Republic of Palau
-","la République des Palaos
-","[""Palau"", ""Belau""]",TRUE,officially_assigned,1986
-PS,PSE,275,"Palestine, State of","Palestine, État de","the State of Palestine
-","l'État de Palestine
-","Dawlat Filasţīn
-",TRUE,officially_assigned,1999
-PA,PAN,591,Panama,Panama (le),"the Republic of Panama
-","la République du Panama
-",Panamá,TRUE,officially_assigned,1974
-PG,PNG,598,Papua New Guinea,Papouasie-Nouvelle-Guinée (la),"the Independent State of Papua New Guinea
-","l'État indépendant de Papouasie-Nouvelle-Guinée
-","[""Papua New Guinea"", ""Papuaniugini"", ""Papuaniugini""]",TRUE,officially_assigned,1974
-PY,PRY,600,Paraguay,Paraguay (le),"the Republic of Paraguay
-","la République du Paraguay
-",Paraguay,TRUE,officially_assigned,1974
-PE,PER,604,Peru,Pérou (le),"the Republic of Peru
-","la République du Pérou
-",Perú,TRUE,officially_assigned,1974
-PH,PHL,608,Philippines (the),Philippines (les),"the Republic of the Philippines
-","la République des Philippines
-","[""Philippines"", ""Pilipinas""]",TRUE,officially_assigned,1974
-PN,PCN,612,Pitcairn,Pitcairn,,,Pitcairn,FALSE,officially_assigned,1974
-PL,POL,616,Poland,Pologne (la),"the Republic of Poland
-","la République de Pologne
-","Polska
-",TRUE,officially_assigned,1974
-PT,PRT,620,Portugal,Portugal (le),the Portuguese Republic,"la République portugaise
-",Portugal,TRUE,officially_assigned,1974
-PR,PRI,630,Puerto Rico,Porto Rico,"Puerto Rico
-",,Puerto Rico,FALSE,officially_assigned,1974
-QA,QAT,634,Qatar,Qatar (le),"the State of Qatar
-","l'État du Qatar
-","Qaţar
-",TRUE,officially_assigned,1974
-RE,REU,638,Réunion,Réunion (La),,,Réunion,FALSE,officially_assigned,1974
-RO,ROU,642,Romania,Roumanie (la),,,România,TRUE,officially_assigned,1974
-RU,RUS,643,Russian Federation (the),Russie (la Fédération de),"the Russian Federation
-","la Fédération de Russie
-","Rossijskaja Federacija
-",TRUE,officially_assigned,1992
-RW,RWA,646,Rwanda,Rwanda (le),"the Republic of Rwanda
-","la République du Rwanda
-",Rwanda,TRUE,officially_assigned,1974
-BL,BLM,652,Saint Barthélemy,Saint-Barthélemy,,,"Saint-Barthélemy
-",FALSE,officially_assigned,2007
-SH,SHN,654,"Saint Helena, Ascension and Tristan da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha",,,"Saint Helena, Ascension and Tristan da Cunha
-",FALSE,officially_assigned,1974
-KN,KNA,659,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,,,"Saint Kitts and Nevis
-",TRUE,officially_assigned,1974
-LC,LCA,662,Saint Lucia,Sainte-Lucie,,,"Saint Lucia
-",TRUE,officially_assigned,1974
-MF,MAF,663,Saint Martin (French part),Saint-Martin (partie française),,,"Saint-Martin
-",FALSE,officially_assigned,2007
-PM,SPM,666,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,,,"Saint-Pierre-et-Miquelon
-",FALSE,officially_assigned,1974
-VC,VCT,670,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,,,"Saint Vincent and the Grenadines
-",TRUE,officially_assigned,1974
-WS,WSM,882,Samoa,Samoa (le),"the Independent State of Samoa
-","l'État indépendant du Samoa
-",Samoa,TRUE,officially_assigned,1974
-SM,SMR,674,San Marino,Saint-Marin,"the Republic of San Marino
-","la République de Saint-Marin
-","San Marino
-",TRUE,officially_assigned,1974
-ST,STP,678,Sao Tome and Principe,Sao Tomé-et-Principe,"the Democratic Republic of Sao Tome and Principe
-","la République démocratique de Sao Tomé-et-Principe
-","São Tomé e Príncipe
-",TRUE,officially_assigned,1974
-SA,SAU,682,Saudi Arabia,Arabie saoudite (l'),"the Kingdom of Saudi Arabia
-","le Royaume d'Arabie saoudite
-","As Su‘ūdīyah
-",TRUE,officially_assigned,1974
-SN,SEN,686,Senegal,Sénégal (le),"the Republic of Senegal
-","la République du Sénégal
-","Sénégal
-",TRUE,officially_assigned,1974
-RS,SRB,688,Serbia,Serbie (la),"the Republic of Serbia
-","la République de Serbie
-",Srbija,TRUE,officially_assigned,2006
-SC,SYC,690,Seychelles,Seychelles (les),"the Republic of Seychelles
-","la République des Seychelles
-","[""Sesel"", ""Seychelles""]",TRUE,officially_assigned,1974
-SL,SLE,694,Sierra Leone,Sierra Leone (la),"the Republic of Sierra Leone
-","la République de Sierra Leone
-","Sierra Leone
-",TRUE,officially_assigned,1974
-SG,SGP,702,Singapore,Singapour,"the Republic of Singapore
-","la République de Singapour
-","[""Singapore"", ""Singapura"", ""Chiṅkappūr"", ""Xinjiapo""]",TRUE,officially_assigned,1974
-SX,SXM,534,Sint Maarten (Dutch part),Saint-Martin (partie néerlandaise),,,Sint Maarten,FALSE,officially_assigned,2010
-SK,SVK,703,Slovakia,Slovaquie (la),"the Slovak Republic
-","la République slovaque
-",Slovensko,TRUE,officially_assigned,1993
-SI,SVN,705,Slovenia,Slovénie (la),"the Republic of Slovenia
-","la République de Slovénie
-",Slovenija,TRUE,officially_assigned,1992
-SB,SLB,090,Solomon Islands,Salomon (les Îles),,"les Îles Salomon
-","Solomon Islands
-",TRUE,officially_assigned,1974
-SO,SOM,706,Somalia,Somalie (la),"the Federal Republic of Somalia
-","la République fédérale de Somalie
-","[""Aş Şūmāl"", ""Soomaaliya""]",TRUE,officially_assigned,1974
-ZA,ZAF,710,South Africa,Afrique du Sud (l'),"the Republic of South Africa
-","la République sud-africaine
-","[""Suid-Afrika"", ""South Africa"", ""Sewula Afrika"", ""Afrika-Borwa"", ""Ningizimu Afrika"", ""Afrika-Dzonga"", ""Afrika Tshipembe"", ""Mzantsi Afrika""]",TRUE,officially_assigned,1974
-GS,SGS,239,South Georgia and the South Sandwich Islands,Géorgie du Sud-et-les Îles Sandwich du Sud (la),,,"South Georgia and the South Sandwich Islands
-",FALSE,officially_assigned,1993
-KR,KOR,410,Korea (the Republic of),Corée (la République de),"the Republic of Korea
-","la République de Corée
-",Hanguk,TRUE,officially_assigned,1974
-SS,SSD,728,South Sudan,Soudan du Sud (le),"the Republic of South Sudan
-","la République du Soudan du Sud
-","South Sudan
-",TRUE,officially_assigned,2011
-ES,ESP,724,Spain,Espagne (l'),"the Kingdom of Spain
-","le Royaume d'Espagne
-","España
-",TRUE,officially_assigned,1974
-LK,LKA,144,Sri Lanka,Sri Lanka,"the Democratic Socialist Republic of Sri Lanka
-","la République socialiste démocratique du Sri Lanka
-","[""Sri Lanka"", ""Shrī Laṁkā"", ""Ilaṅkai""]",TRUE,officially_assigned,1974
-SD,SDN,729,Sudan (the),Soudan (le),"the Republic of the Sudan
-","la République du Soudan
-","As Sūdān
-",TRUE,officially_assigned,1974
-SR,SUR,740,Suriname,Suriname (le),"the Republic of Suriname
-","la République du Suriname
-",Suriname,TRUE,officially_assigned,1974
-SJ,SJM,744,Svalbard and Jan Mayen,Svalbard et l'Île Jan Mayen (le),,,Svalbard og Jan Mayen,FALSE,officially_assigned,1974
-SE,SWE,752,Sweden,Suède (la),"the Kingdom of Sweden
-","le Royaume de Suède
-",Sverige,TRUE,officially_assigned,1974
-CH,CHE,756,Switzerland,Suisse (la),"the Swiss Confederation
-","la Confédération suisse
-","[""Schweiz"", ""Suisse"", ""Svizzera"", ""Svizra""]",TRUE,officially_assigned,1974
-SY,SYR,760,Syrian Arab Republic (the),République arabe syrienne (la),"the Syrian Arab Republic
-","la République arabe syrienne
-","Al Jumhūrīyah al ‘Arabīyah as Sūrīyah
-",TRUE,officially_assigned,1974
-TW,TWN,158,Taiwan (Province of China),Taïwan (Province de Chine),,,Taiwan,TRUE,officially_assigned,1974
-TJ,TJK,762,Tajikistan,Tadjikistan (le),"the Republic of Tajikistan
-","la République du Tadjikistan
-",Tojikiston,TRUE,officially_assigned,1992
-TZ,TZA,834,"Tanzania, the United Republic of",Tanzanie (la République-Unie de),"the United Republic of Tanzania
-","la République-Unie de Tanzanie
-","[""Tanzania, the United Republic of"", ""Jamhuri ya Muungano wa Tanzania""]",TRUE,officially_assigned,1974
-TH,THA,764,Thailand,Thaïlande (la),"the Kingdom of Thailand
-","le Royaume de Thaïlande
-","Prathet Thai
-",TRUE,officially_assigned,1974
-TL,TLS,626,Timor-Leste,Timor-Leste (le),"the Democratic Republic of Timor-Leste
-","la République démocratique du Timor-Leste
-","[""Timor-Leste"", ""Timor Lorosa'e""]",TRUE,officially_assigned,2002
-TG,TGO,768,Togo,Togo (le),"the Togolese Republic
-","la République togolaise
-","Togo
-",TRUE,officially_assigned,1974
-TK,TKL,772,Tokelau,Tokelau (les),,,Tokelau,FALSE,officially_assigned,1974
-TO,TON,776,Tonga,Tonga (les),"the Kingdom of Tonga
-","le Royaume des Tonga
-",Tonga,TRUE,officially_assigned,1974
-TT,TTO,780,Trinidad and Tobago,Trinité-et-Tobago (la),"the Republic of Trinidad and Tobago
-","la République de Trinité-et-Tobago
-","Trinidad and Tobago
-",TRUE,officially_assigned,1974
-TN,TUN,788,Tunisia,Tunisie (la),"the Republic of Tunisia
-","la République tunisienne
-",Tūnis,TRUE,officially_assigned,1974
-TR,TUR,792,Türkiye,Türkiye (la),"the Republic of Türkiye
-","la République de Türkiye
-","Türkiye
-",TRUE,officially_assigned,1974
-TM,TKM,795,Turkmenistan,Turkménistan (le),,,Türkmenistan,TRUE,officially_assigned,1992
-TC,TCA,796,Turks and Caicos Islands (the),Turks-et-Caïcos (les Îles),,,"Turks and Caicos Islands
-",FALSE,officially_assigned,1974
-TV,TUV,798,Tuvalu,Tuvalu (les),,,Tuvalu,TRUE,officially_assigned,1977
-UM,UMI,581,United States Minor Outlying Islands (the),Îles mineures éloignées des États-Unis (les),,,"United States Minor Outlying Islands
-",FALSE,officially_assigned,1986
-UG,UGA,800,Uganda,Ouganda (l'),"the Republic of Uganda
-","la République d'Ouganda
-","Uganda
-",TRUE,officially_assigned,1974
-UA,UKR,804,Ukraine,Ukraine (l'),,,Ukraina,TRUE,officially_assigned,1974
-AE,ARE,784,United Arab Emirates (the),Émirats arabes unis (les),the United Arab Emirates,"les Émirats arabes unis
-","Al Imārāt
-",TRUE,officially_assigned,1974
-GB,GBR,826,United Kingdom of Great Britain and Northern Ireland (the),Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le),"the United Kingdom of Great Britain and Northern Ireland
-","le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
-","United Kingdom of Great Britain and Northern Ireland
-",TRUE,officially_assigned,1974
-US,USA,840,United States of America (the),États-Unis d'Amérique (les),"the United States of America
-","les États-Unis d'Amérique
-","United States of America
-",TRUE,officially_assigned,1974
-UY,URY,858,Uruguay,Uruguay (l'),"the Eastern Republic of Uruguay
-","la République orientale de l'Uruguay
-",Uruguay,TRUE,officially_assigned,1974
-UZ,UZB,860,Uzbekistan,Ouzbékistan (l'),"the Republic of Uzbekistan
-","la République d'Ouzbékistan
-","O‘zbekiston
-",TRUE,officially_assigned,1992
-VU,VUT,548,Vanuatu,Vanuatu (le),"the Republic of Vanuatu
-","la République du Vanuatu
-",Vanuatu,TRUE,officially_assigned,1980
-VA,VAT,336,Holy See (the),Saint-Siège (le),,,"[""Santa Sede"", ""Sancta Sedes""]",TRUE,officially_assigned,1974
-VE,VEN,862,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),"the Bolivarian Republic of Venezuela
-","la République bolivarienne du Venezuela
-","Venezuela, República Bolivariana de
-",TRUE,officially_assigned,1974
-VN,VNM,704,Viet Nam,Viet Nam (le),"the Socialist Republic of Viet Nam
-","la République socialiste du Viet Nam
-","Việt Nam
-",TRUE,officially_assigned,1974
-VG,VGB,092,Virgin Islands (British),Vierges britanniques (les Îles),"British Virgin Islands
-",,"Virgin Islands (British)
-",FALSE,officially_assigned,1974
-VI,VIR,850,Virgin Islands (U.S.),Vierges des États-Unis (les Îles),"the Virgin Islands of the United States
-",,"Virgin Islands (U.S.)
-",FALSE,officially_assigned,1974
-WF,WLF,876,Wallis and Futuna,Wallis-et-Futuna,"Wallis and Futuna Islands
-","les Îles Wallis-et-Futuna
-","Wallis-et-Futuna
-",FALSE,officially_assigned,1974
-EH,ESH,732,Western Sahara,Sahara occidental (le),,,"Aş Şaḩrā' al Gharbīyah
-",FALSE,officially_assigned,1974
-YE,YEM,887,Yemen,Yémen (le),"the Republic of Yemen
-","la République du Yémen
-","Al Yaman
-",TRUE,officially_assigned,1974
-ZM,ZMB,894,Zambia,Zambie (la),"the Republic of Zambia
-","la République de Zambie
-","Zambia
-",TRUE,officially_assigned,1974
-ZW,ZWE,716,Zimbabwe,Zimbabwe (le),"the Republic of Zimbabwe
-","la République du Zimbabwe
-","Zimbabwe
-",TRUE,officially_assigned,1980
+alpha_2,alpha_3,numeric,name_short_en,is_independent,status,year_assigned
+AF,AFG,004,Afghanistan,TRUE,officially_assigned,1974
+AX,ALA,248,Åland Islands,FALSE,officially_assigned,2004
+AL,ALB,008,Albania,TRUE,officially_assigned,1974
+DZ,DZA,012,Algeria,TRUE,officially_assigned,1974
+AS,ASM,016,American Samoa,FALSE,officially_assigned,1974
+AD,AND,020,Andorra,TRUE,officially_assigned,1974
+AO,AGO,024,Angola,TRUE,officially_assigned,1974
+AI,AIA,660,Anguilla,FALSE,officially_assigned,1985
+AQ,ATA,010,Antarctica,FALSE,officially_assigned,1974
+AG,ATG,028,Antigua and Barbuda,TRUE,officially_assigned,1974
+AR,ARG,032,Argentina,TRUE,officially_assigned,1974
+AM,ARM,051,Armenia,TRUE,officially_assigned,1992
+AW,ABW,533,Aruba,FALSE,officially_assigned,1986
+AU,AUS,036,Australia,TRUE,officially_assigned,1974
+AT,AUT,040,Austria,TRUE,officially_assigned,1974
+AZ,AZE,031,Azerbaijan,TRUE,officially_assigned,1992
+BS,BHS,044,Bahamas,TRUE,officially_assigned,1974
+BH,BHR,048,Bahrain,TRUE,officially_assigned,1974
+BD,BGD,050,Bangladesh,TRUE,officially_assigned,1974
+BB,BRB,052,Barbados,TRUE,officially_assigned,1974
+BY,BLR,112,Belarus,TRUE,officially_assigned,1974
+BE,BEL,056,Belgium,TRUE,officially_assigned,1974
+BZ,BLZ,084,Belize,TRUE,officially_assigned,1974
+BJ,BEN,204,Benin,TRUE,officially_assigned,1977
+BM,BMU,060,Bermuda,FALSE,officially_assigned,1974
+BT,BTN,064,Bhutan,TRUE,officially_assigned,1974
+BO,BOL,068,Bolivia,TRUE,officially_assigned,1974
+BA,BIH,070,Bosnia and Herzegovina,TRUE,officially_assigned,1992
+BW,BWA,072,Botswana,TRUE,officially_assigned,1974
+BV,BVT,074,Bouvet Island,FALSE,officially_assigned,1974
+BR,BRA,076,Brazil,TRUE,officially_assigned,1974
+IO,IOT,086,British Indian Ocean Territory,FALSE,officially_assigned,1974
+BN,BRN,096,Brunei Darussalam,TRUE,officially_assigned,1974
+BG,BGR,100,Bulgaria,TRUE,officially_assigned,1974
+BF,BFA,854,Burkina Faso,TRUE,officially_assigned,1984
+BI,BDI,108,Burundi,TRUE,officially_assigned,1974
+KH,KHM,116,Cambodia,TRUE,officially_assigned,1974
+CM,CMR,120,Cameroon,TRUE,officially_assigned,1974
+CA,CAN,124,Canada,TRUE,officially_assigned,1974
+CV,CPV,132,Cabo Verde,TRUE,officially_assigned,1974
+BQ,BES,535,"Bonaire, Sint Eustatius and Saba",FALSE,officially_assigned,2010
+KY,CYM,136,Cayman Islands,FALSE,officially_assigned,1974
+CF,CAF,140,Central African Republic,TRUE,officially_assigned,1974
+TD,TCD,148,Chad,TRUE,officially_assigned,1974
+CL,CHL,152,Chile,TRUE,officially_assigned,1974
+CN,CHN,156,China,TRUE,officially_assigned,1974
+CX,CXR,162,Christmas Island,FALSE,officially_assigned,1974
+CC,CCK,166,Cocos (Keeling) Islands,FALSE,officially_assigned,1974
+CO,COL,170,Colombia,TRUE,officially_assigned,1974
+KM,COM,174,Comoros (the),TRUE,officially_assigned,1974
+CG,COG,178,Congo (the),TRUE,officially_assigned,1974
+CD,COD,180,Congo (Democratic Republic),TRUE,officially_assigned,1997
+CK,COK,184,Cook Islands,FALSE,officially_assigned,1974
+CR,CRI,188,Costa Rica,TRUE,officially_assigned,1974
+HR,HRV,191,Croatia,TRUE,officially_assigned,1992
+CU,CUB,192,Cuba,TRUE,officially_assigned,1974
+CW,CUW,531,Curaçao,FALSE,officially_assigned,2010
+CY,CYP,196,Cyprus,TRUE,officially_assigned,1974
+CZ,CZE,203,Czechia,TRUE,officially_assigned,1993
+DK,DNK,208,Denmark,TRUE,officially_assigned,1974
+DJ,DJI,262,Djibouti,TRUE,officially_assigned,1977
+DM,DMA,212,Dominica,TRUE,officially_assigned,1974
+DO,DOM,214,Dominican Republic,TRUE,officially_assigned,1974
+EC,ECU,218,Ecuador,TRUE,officially_assigned,1974
+EG,EGY,818,Egypt,TRUE,officially_assigned,1974
+SV,SLV,222,El Salvador,TRUE,officially_assigned,1974
+GQ,GNQ,226,Equatorial Guinea,TRUE,officially_assigned,1974
+ER,ERI,232,Eritrea,TRUE,officially_assigned,1993
+EE,EST,233,Estonia,TRUE,officially_assigned,1992
+SZ,SWZ,748,Eswatini,TRUE,officially_assigned,1974
+ET,ETH,231,Ethiopia,TRUE,officially_assigned,1974
+FK,FLK,238,Falkland Islands,FALSE,officially_assigned,1974
+FO,FRO,234,Faroe Islands,FALSE,officially_assigned,1974
+FJ,FJI,242,Fiji,TRUE,officially_assigned,1974
+FI,FIN,246,Finland,TRUE,officially_assigned,1974
+FR,FRA,250,France,TRUE,officially_assigned,1974
+GF,GUF,254,French Guiana,FALSE,officially_assigned,1974
+PF,PYF,258,French Polynesia,FALSE,officially_assigned,1974
+TF,ATF,260,French Southern Territories,FALSE,officially_assigned,1979
+GA,GAB,266,Gabon,TRUE,officially_assigned,1974
+GM,GMB,270,Gambia,TRUE,officially_assigned,1974
+GE,GEO,268,Georgia,TRUE,officially_assigned,1992
+DE,DEU,276,Germany,TRUE,officially_assigned,1974
+GH,GHA,288,Ghana,TRUE,officially_assigned,1974
+GI,GIB,292,Gibraltar,FALSE,officially_assigned,1974
+GR,GRC,300,Greece,TRUE,officially_assigned,1974
+GL,GRL,304,Greenland,FALSE,officially_assigned,1974
+GD,GRD,308,Grenada,TRUE,officially_assigned,1974
+GP,GLP,312,Guadeloupe,FALSE,officially_assigned,1974
+GU,GUM,316,Guam,FALSE,officially_assigned,1974
+GT,GTM,320,Guatemala,TRUE,officially_assigned,1974
+GG,GGY,831,Guernsey,FALSE,officially_assigned,2006
+GN,GIN,324,Guinea,TRUE,officially_assigned,1974
+GW,GNB,624,Guinea-Bissau,TRUE,officially_assigned,1974
+GY,GUY,328,Guyana,TRUE,officially_assigned,1974
+HT,HTI,332,Haiti,TRUE,officially_assigned,1974
+HM,HMD,334,Heard Island and McDonald Islands,FALSE,officially_assigned,1974
+HN,HND,340,Honduras,TRUE,officially_assigned,1974
+HK,HKG,344,Hong Kong,FALSE,officially_assigned,1974
+HU,HUN,348,Hungary,TRUE,officially_assigned,1974
+IS,ISL,352,Iceland,TRUE,officially_assigned,1974
+IN,IND,356,India,TRUE,officially_assigned,1974
+ID,IDN,360,Indonesia,TRUE,officially_assigned,1974
+IR,IRN,364,Iran,TRUE,officially_assigned,1974
+IQ,IRQ,368,Iraq,TRUE,officially_assigned,1974
+IE,IRL,372,Ireland,TRUE,officially_assigned,1974
+IM,IMN,833,Isle of Man,FALSE,officially_assigned,2006
+IL,ISR,376,Israel,TRUE,officially_assigned,1974
+IT,ITA,380,Italy,TRUE,officially_assigned,1974
+CI,CIV,384,Côte d'Ivoire,TRUE,officially_assigned,1974
+JM,JAM,388,Jamaica,TRUE,officially_assigned,1974
+JP,JPN,392,Japan,TRUE,officially_assigned,1974
+JE,JEY,832,Jersey,FALSE,officially_assigned,2006
+JO,JOR,400,Jordan,TRUE,officially_assigned,1974
+KZ,KAZ,398,Kazakhstan,TRUE,officially_assigned,1992
+KE,KEN,404,Kenya,TRUE,officially_assigned,1974
+KI,KIR,296,Kiribati,TRUE,officially_assigned,1979
+KW,KWT,414,Kuwait,TRUE,officially_assigned,1974
+KG,KGZ,417,Kyrgyzstan,TRUE,officially_assigned,1992
+LA,LAO,418,Lao People's Democratic Republic,TRUE,officially_assigned,1974
+LV,LVA,428,Latvia,TRUE,officially_assigned,1992
+LB,LBN,422,Lebanon,TRUE,officially_assigned,1974
+LS,LSO,426,Lesotho,TRUE,officially_assigned,1974
+LR,LBR,430,Liberia,TRUE,officially_assigned,1974
+LY,LBY,434,Libya,TRUE,officially_assigned,1974
+LI,LIE,438,Liechtenstein,TRUE,officially_assigned,1974
+LT,LTU,440,Lithuania,TRUE,officially_assigned,1992
+LU,LUX,442,Luxembourg,TRUE,officially_assigned,1974
+MO,MAC,446,Macao,FALSE,officially_assigned,1974
+MG,MDG,450,Madagascar,TRUE,officially_assigned,1974
+MW,MWI,454,Malawi,TRUE,officially_assigned,1974
+MY,MYS,458,Malaysia,TRUE,officially_assigned,1974
+MV,MDV,462,Maldives,TRUE,officially_assigned,1974
+ML,MLI,466,Mali,TRUE,officially_assigned,1974
+MT,MLT,470,Malta,TRUE,officially_assigned,1974
+MH,MHL,584,Marshall Islands,TRUE,officially_assigned,1986
+MQ,MTQ,474,Martinique,FALSE,officially_assigned,1974
+MR,MRT,478,Mauritania,TRUE,officially_assigned,1974
+MU,MUS,480,Mauritius,TRUE,officially_assigned,1974
+YT,MYT,175,Mayotte,FALSE,officially_assigned,1993
+MX,MEX,484,Mexico,TRUE,officially_assigned,1974
+FM,FSM,583,Micronesia,TRUE,officially_assigned,1986
+MD,MDA,498,Moldova,TRUE,officially_assigned,1992
+MC,MCO,492,Monaco,TRUE,officially_assigned,1974
+MN,MNG,496,Mongolia,TRUE,officially_assigned,1974
+ME,MNE,499,Montenegro,TRUE,officially_assigned,2006
+MS,MSR,500,Montserrat,FALSE,officially_assigned,1974
+MA,MAR,504,Morocco,TRUE,officially_assigned,1974
+MZ,MOZ,508,Mozambique,TRUE,officially_assigned,1974
+MM,MMR,104,Myanmar,TRUE,officially_assigned,1989
+NA,NAM,516,Namibia,TRUE,officially_assigned,1974
+NR,NRU,520,Nauru,TRUE,officially_assigned,1974
+NP,NPL,524,Nepal,TRUE,officially_assigned,1974
+NL,NLD,528,Netherlands ,TRUE,officially_assigned,1974
+NC,NCL,540,New Caledonia,FALSE,officially_assigned,1974
+NZ,NZL,554,New Zealand,TRUE,officially_assigned,1974
+NI,NIC,558,Nicaragua,TRUE,officially_assigned,1974
+NE,NER,562,Niger (the),TRUE,officially_assigned,1974
+NG,NGA,566,Nigeria,TRUE,officially_assigned,1974
+NU,NIU,570,Niue,FALSE,officially_assigned,1974
+NF,NFK,574,Norfolk Island,FALSE,officially_assigned,1974
+KP,PRK,408,Korea (Democratic People's Republic),TRUE,officially_assigned,1974
+MK,MKD,807,North Macedonia,TRUE,officially_assigned,1993
+MP,MNP,580,Northern Mariana Islands,FALSE,officially_assigned,1986
+NO,NOR,578,Norway,TRUE,officially_assigned,1974
+OM,OMN,512,Oman,TRUE,officially_assigned,1974
+PK,PAK,586,Pakistan,TRUE,officially_assigned,1974
+PW,PLW,585,Palau,TRUE,officially_assigned,1986
+PS,PSE,275,Palestine,TRUE,officially_assigned,1999
+PA,PAN,591,Panama,TRUE,officially_assigned,1974
+PG,PNG,598,Papua New Guinea,TRUE,officially_assigned,1974
+PY,PRY,600,Paraguay,TRUE,officially_assigned,1974
+PE,PER,604,Peru,TRUE,officially_assigned,1974
+PH,PHL,608,Philippines,TRUE,officially_assigned,1974
+PN,PCN,612,Pitcairn,FALSE,officially_assigned,1974
+PL,POL,616,Poland,TRUE,officially_assigned,1974
+PT,PRT,620,Portugal,TRUE,officially_assigned,1974
+PR,PRI,630,Puerto Rico,FALSE,officially_assigned,1974
+QA,QAT,634,Qatar,TRUE,officially_assigned,1974
+RE,REU,638,Réunion,FALSE,officially_assigned,1974
+RO,ROU,642,Romania,TRUE,officially_assigned,1974
+RU,RUS,643,Russian Federation,TRUE,officially_assigned,1992
+RW,RWA,646,Rwanda,TRUE,officially_assigned,1974
+BL,BLM,652,Saint Barthélemy,FALSE,officially_assigned,2007
+SH,SHN,654,"Saint Helena, Ascension and Tristan da Cunha",FALSE,officially_assigned,1974
+KN,KNA,659,Saint Kitts and Nevis,TRUE,officially_assigned,1974
+LC,LCA,662,Saint Lucia,TRUE,officially_assigned,1974
+MF,MAF,663,Saint Martin (French part),FALSE,officially_assigned,2007
+PM,SPM,666,Saint Pierre and Miquelon,FALSE,officially_assigned,1974
+VC,VCT,670,Saint Vincent and the Grenadines,TRUE,officially_assigned,1974
+WS,WSM,882,Samoa,TRUE,officially_assigned,1974
+SM,SMR,674,San Marino,TRUE,officially_assigned,1974
+ST,STP,678,Sao Tome and Principe,TRUE,officially_assigned,1974
+SA,SAU,682,Saudi Arabia,TRUE,officially_assigned,1974
+SN,SEN,686,Senegal,TRUE,officially_assigned,1974
+RS,SRB,688,Serbia,TRUE,officially_assigned,2006
+SC,SYC,690,Seychelles,TRUE,officially_assigned,1974
+SL,SLE,694,Sierra Leone,TRUE,officially_assigned,1974
+SG,SGP,702,Singapore,TRUE,officially_assigned,1974
+SX,SXM,534,Sint Maarten (Dutch part),FALSE,officially_assigned,2010
+SK,SVK,703,Slovakia,TRUE,officially_assigned,1993
+SI,SVN,705,Slovenia,TRUE,officially_assigned,1992
+SB,SLB,090,Solomon Islands,TRUE,officially_assigned,1974
+SO,SOM,706,Somalia,TRUE,officially_assigned,1974
+ZA,ZAF,710,South Africa,TRUE,officially_assigned,1974
+GS,SGS,239,South Georgia and the South Sandwich Islands,FALSE,officially_assigned,1993
+KR,KOR,410,Korea (Republic),TRUE,officially_assigned,1974
+SS,SSD,728,South Sudan,TRUE,officially_assigned,2011
+ES,ESP,724,Spain,TRUE,officially_assigned,1974
+LK,LKA,144,Sri Lanka,TRUE,officially_assigned,1974
+SD,SDN,729,Sudan (the),TRUE,officially_assigned,1974
+SR,SUR,740,Suriname,TRUE,officially_assigned,1974
+SJ,SJM,744,Svalbard and Jan Mayen,FALSE,officially_assigned,1974
+SE,SWE,752,Sweden,TRUE,officially_assigned,1974
+CH,CHE,756,Switzerland,TRUE,officially_assigned,1974
+SY,SYR,760,Syrian Arab Republic,TRUE,officially_assigned,1974
+TW,TWN,158,Taiwan,TRUE,officially_assigned,1974
+TJ,TJK,762,Tajikistan,TRUE,officially_assigned,1992
+TZ,TZA,834,Tanzania,TRUE,officially_assigned,1974
+TH,THA,764,Thailand,TRUE,officially_assigned,1974
+TL,TLS,626,Timor-Leste,TRUE,officially_assigned,2002
+TG,TGO,768,Togo,TRUE,officially_assigned,1974
+TK,TKL,772,Tokelau,FALSE,officially_assigned,1974
+TO,TON,776,Tonga,TRUE,officially_assigned,1974
+TT,TTO,780,Trinidad and Tobago,TRUE,officially_assigned,1974
+TN,TUN,788,Tunisia,TRUE,officially_assigned,1974
+TR,TUR,792,Türkiye,TRUE,officially_assigned,1974
+TM,TKM,795,Turkmenistan,TRUE,officially_assigned,1992
+TC,TCA,796,Turks and Caicos Islands,FALSE,officially_assigned,1974
+TV,TUV,798,Tuvalu,TRUE,officially_assigned,1977
+UM,UMI,581,United States Minor Outlying Islands,FALSE,officially_assigned,1986
+UG,UGA,800,Uganda,TRUE,officially_assigned,1974
+UA,UKR,804,Ukraine,TRUE,officially_assigned,1974
+AE,ARE,784,United Arab Emirates,TRUE,officially_assigned,1974
+GB,GBR,826,United Kingdom of Great Britain and Northern Ireland,TRUE,officially_assigned,1974
+US,USA,840,United States of America,TRUE,officially_assigned,1974
+UY,URY,858,Uruguay,TRUE,officially_assigned,1974
+UZ,UZB,860,Uzbekistan,TRUE,officially_assigned,1992
+VU,VUT,548,Vanuatu,TRUE,officially_assigned,1980
+VA,VAT,336,Holy See (the),TRUE,officially_assigned,1974
+VE,VEN,862,Venezuela,TRUE,officially_assigned,1974
+VN,VNM,704,Viet Nam,TRUE,officially_assigned,1974
+VG,VGB,092,Virgin Islands (British),FALSE,officially_assigned,1974
+VI,VIR,850,Virgin Islands (U.S.),FALSE,officially_assigned,1974
+WF,WLF,876,Wallis and Futuna,FALSE,officially_assigned,1974
+EH,ESH,732,Western Sahara,FALSE,officially_assigned,1974
+YE,YEM,887,Yemen,TRUE,officially_assigned,1974
+ZM,ZMB,894,Zambia,TRUE,officially_assigned,1974
+ZW,ZWE,716,Zimbabwe,TRUE,officially_assigned,1980
