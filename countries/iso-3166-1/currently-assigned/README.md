@@ -79,11 +79,3 @@ Discover more about the **[Premium License](https://factbase.io/premium)** and h
 
 > **Note:** The Premium License is ideal for businesses and developers who require uninterrupted access to the latest data and premium support services to maintain their application's excellence.
 
-
-
-## Getting Started
-
-Clone the repository or download the dataset directly to get started:
-
-```bash
-git clone https://github.com/yourusername/iso-3166-1-dataset.git
