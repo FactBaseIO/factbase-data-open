@@ -7,11 +7,14 @@
 
   <h3 align="center">ISO 3166-1 Currently Assigned Country Codes Dataset</h3>
 
-  <p align="center">
-    A **comprehensive**, **authoritative**, and **frequently updated** dataset of ISO 3166-1 country codes provided by [FactBase.io](https://factbase.io). This open-source dataset ensures you have access to the most current country codes and related information for your applications.
+  <div align="center">
+    <p>
+        A <strong>comprehensive</strong>, <strong>authoritative</strong>, and <strong>frequently updated</strong> dataset of ISO 3166-1 country codes provided by 
+        <a href="https://factbase.io" target="_blank" rel="noopener noreferrer">FactBase.io</a>. 
+        This open-source dataset ensures you have access to the most current country codes and related information for your applications.
+    </p>
     <br />
     <br />
-
 </div>
 
 
