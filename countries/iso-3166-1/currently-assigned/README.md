@@ -59,6 +59,9 @@ These data points ensure you have a complete and up-to-date source of truth of c
 > [!IMPORTANT]  
 > The availability of all the data formats listed below is **guaranteed to remain unchanged indefinitely**. The GitHub paths to these files (e.g., data.xxx for each format) will not be altered, except for changes made by GitHub's system or infrastructure which is out of FactBase's control. Additionally, the **data structure and naming conventions are guaranteed to remain consistent**, ensuring seamless and reliable integration into your projects.
 
+> [!TIP]
+> Additionally, the data can also be directly accessed and integrated using the [FactBase Python SDK](https://github.com/FactBaseIO/factbase-python) or the [FactBase JavaScript SDK](https://github.com/FactBaseIO/factbase-javascript), providing seamless interaction with the dataset through your preferred development environment.
+
 | **File Extension** | **Export Format** | **Internal Link**             | **Description**                                                                                       |
 |--------------------|-------------------|-------------------------------|-------------------------------------------------------------------------------------------------------|
 | `.csv`             | CSV               | [data.csv](./data.csv)         | Comma-separated values format, widely used for tabular data and compatible with spreadsheet software.   |
@@ -72,8 +75,7 @@ These data points ensure you have a complete and up-to-date source of truth of c
 | `.xml`             | XML               | [data.xml](./data.xml)         | eXtensible Markup Language, used for structured data representation with a focus on flexibility.         |
 | `.yaml`            | YAML              | [data.yaml](./data.yaml)       | YAML Ain't Markup Language, a human-readable data serialization format often used in configuration files.|
 
-> [!TIP]
-> Additionally, the data can also be directly accessed and integrated using the [FactBase Python SDK](https://github.com/FactBaseIO/factbase-python) or the [FactBase JavaScript SDK](https://github.com/FactBaseIO/factbase-javascript), providing seamless interaction with the dataset through your preferred development environment.
+
 
 
 
