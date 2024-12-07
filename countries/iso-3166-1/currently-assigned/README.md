@@ -22,8 +22,8 @@
 # ISO 3166-1 Currently Assigned Country Codes Dataset
 
 ![License](https://img.shields.io/github/license/FactBaseIO/factbase-open-data?style=for-the-badge)
-![Updates](https://img.shields.io/badge/updates-every%202%20weeks-blue)
-![FactBase.io](https://img.shields.io/badge/dataset-FactBase.io-orange)
+![Updates](https://img.shields.io/badge/updates-every%202%20weeks-blue?style=for-the-badge)
+![FactBase.io](https://img.shields.io/badge/dataset-FactBase.io-orange?style=for-the-badge)
 
 A **comprehensive**, **authoritative**, and **frequently updated** dataset of ISO 3166-1 country codes provided by [FactBase.io](https://factbase.io). This open-source dataset ensures you have access to the most current country codes and related information for your applications.
 
