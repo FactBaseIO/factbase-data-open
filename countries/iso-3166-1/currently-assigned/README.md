@@ -1,6 +1,6 @@
 # ISO 3166-1 Currently Assigned Country Codes Dataset
 
-![License](https://img.shields.io/github/license/FactBaseIO/factbase-open-datat)
+![License](https://img.shields.io/github/license/FactBaseIO/factbase-open-data)
 ![Updates](https://img.shields.io/badge/updates-every%202%20weeks-blue)
 ![FactBase.io](https://img.shields.io/badge/dataset-FactBase.io-orange)
 
