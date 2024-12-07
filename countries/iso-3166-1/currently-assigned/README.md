@@ -76,14 +76,15 @@ These data points ensure you have a complete and up-to-date source of truth of c
 
 
 ## Change Notifications
+> [!TIP]
+> You can subscribe to receive **real-time alerts** for these changes, keeping your product, development, and data teams informed of on-the-ground changes to ensure they are reflected in your product and service offerings.
+
 Stay informed about updates to the dataset with FactBase's **Change Notification** system. You will be alerted whenever significant changes are made to the country data, including:
 
 - **New Country Additions**: Notifications will be sent when a new country is added to the ISO 3166-1 list.
 - **ISO Updates**: Get updates whenever changes occur in the ISO 3166-1 standard, such as modifications to existing country codes or details.
 - **Country Status Changes**: Be notified when a country ceases to exist, either due to geopolitical changes or other factors.
 
-> [!TIP]
-> You can subscribe to receive **real-time alerts** for these changes, keeping your product, development, and data teams informed of on-the-ground changes to ensure they are reflected in your product and service offerings.
 
 
 ## Features
