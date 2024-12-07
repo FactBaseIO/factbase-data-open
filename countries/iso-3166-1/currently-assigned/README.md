@@ -73,6 +73,12 @@ These data points ensure you have a complete and up-to-date source of truth of c
 | `.yaml`            | YAML              | [data.yaml](./data.yaml)       | YAML Ain't Markup Language, a human-readable data serialization format often used in configuration files.|
 
 
+
+
+## Change Notification
+Get notified everytime there is a change to the this data for example a country being added, any changes to the data applied by ISO or a country seizes to exist.
+
+
 ## Features
 
 - **Authoritative Data:** Guaranteed accurate ISO 3166-1 data from FactBase.io.
