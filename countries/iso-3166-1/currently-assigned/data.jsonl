@@ -151,7 +151,7 @@
 {"alpha_2": NaN, "alpha_3": "NAM", "numeric": "516", "numeric_int": 516, "name_short_en": "Namibia", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "NR", "alpha_3": "NRU", "numeric": "520", "numeric_int": 520, "name_short_en": "Nauru", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "NP", "alpha_3": "NPL", "numeric": "524", "numeric_int": 524, "name_short_en": "Nepal", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
-{"alpha_2": "NL", "alpha_3": "NLD", "numeric": "528", "numeric_int": 528, "name_short_en": "Netherlands ", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
+{"alpha_2": "NL", "alpha_3": "NLD", "numeric": "528", "numeric_int": 528, "name_short_en": "Netherlands", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "NC", "alpha_3": "NCL", "numeric": "540", "numeric_int": 540, "name_short_en": "New Caledonia", "is_independent": false, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "NZ", "alpha_3": "NZL", "numeric": "554", "numeric_int": 554, "name_short_en": "New Zealand", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
 {"alpha_2": "NI", "alpha_3": "NIC", "numeric": "558", "numeric_int": 558, "name_short_en": "Nicaragua", "is_independent": true, "status": "officially_assigned", "year_assigned": 1974}
