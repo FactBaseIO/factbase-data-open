@@ -17,7 +17,6 @@
 
   ![License](https://img.shields.io/github/license/FactBaseIO/factbase-open-data?style=for-the-badge)
   ![Updates](https://img.shields.io/badge/updates-every%202%20weeks-blue?style=for-the-badge)
-  ![Premium Updates](https://img.shields.io/badge/premiumupdates-daily-blue?style=for-the-badge)
   ![FactBase.io](https://img.shields.io/badge/dataset-FactBase.io-orange?style=for-the-badge)
 </div>
 
