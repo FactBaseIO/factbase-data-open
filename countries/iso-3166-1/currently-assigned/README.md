@@ -8,7 +8,7 @@ A **comprehensive**, **authoritative**, and **frequently updated** dataset of IS
 
 🔒 **Guaranteed Consistency:** Data structure, naming conventions, and GitHub file paths remain **forever unchanged**, ensuring seamless integration into your projects and eliminating concerns about breaking changes in your workflows.
 
-🗓️ **Regular Updates:** Updated **every 14 days**, so you always have the latest country codes at your fingertips.
+🗓️ **Regular Updates:** Updated **every 14 days**, so you always have the latest country codes at your fingertips.   Updated **every 14 days** to keep you current with the latest country codes, or **daily with a **[Premium License](https://factbase.io/premium)** for even greater precision and reliability.
 
 ✅ **Guaranteed Accuracy:** We provide **accurate** and reliable data, maintained with precision to support your application's integrity.
 
