@@ -10,8 +10,8 @@
   <div align="center">
     <p>
         A <strong>comprehensive</strong>, <strong>authoritative</strong>, and <strong>frequently updated</strong> dataset of ISO 3166-1 country codes provided by 
-        <a href="https://factbase.io" target="_blank" rel="noopener noreferrer">FactBase.io</a>. < /br>
-        This open-source dataset ensures you have access to the most current country codes and related information for your applications.
+        <a href="https://factbase.io" target="_blank" rel="noopener noreferrer">FactBase.io</a>. <br />
+        This <strong>open-source dataset</strong>strong> ensures you have access to the most current country codes and related information for your applications.
     </p>
     <br />
     <br />
