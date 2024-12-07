@@ -7,19 +7,18 @@
 
   <h3 align="center">ISO 3166-1 | Currently Assigned Country Codes | Dataset</h3>
 
-  <div align="center">
-    <p>
-        A <strong>comprehensive</strong>, <strong>authoritative</strong>, and <strong>frequently updated</strong> dataset of ISO 3166-1 country codes provided by 
-        <a href="https://factbase.io" target="_blank" rel="noopener noreferrer">FactBase.io</a>. <br />
-        This open-source dataset ensures you have access to the most current country codes and related information for your applications.
-    </p>
-    <br />
-    <br />
-  </div>
+  <p>
+    A <strong>comprehensive</strong>, <strong>authoritative</strong>, and <strong>frequently updated</strong> dataset of ISO 3166-1 country codes provided by 
+    <a href="https://factbase.io" target="_blank" rel="noopener noreferrer">FactBase.io</a>. <br />
+    This open-source dataset ensures you have access to the most current country codes and related information for your applications.
+  </p>
+  <br />
+  <br />
 
-![License](https://img.shields.io/github/license/FactBaseIO/factbase-open-data?style=for-the-badge)
-![Updates](https://img.shields.io/badge/updates-every%202%20weeks-blue?style=for-the-badge)
-![FactBase.io](https://img.shields.io/badge/dataset-FactBase.io-orange?style=for-the-badge)
+  ![License](https://img.shields.io/github/license/FactBaseIO/factbase-open-data?style=for-the-badge)
+  ![Updates](https://img.shields.io/badge/updates-every%202%20weeks-blue?style=for-the-badge)
+  ![FactBase.io](https://img.shields.io/badge/dataset-FactBase.io-orange?style=for-the-badge)
+</div>
 
 
 # Why Choose This Dataset
