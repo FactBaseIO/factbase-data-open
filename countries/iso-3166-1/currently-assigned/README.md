@@ -13,22 +13,6 @@ A **comprehensive**, **authoritative**, and **frequently updated** dataset of IS
 ✅ **Guaranteed Accuracy:** We provide **accurate** and reliable data, maintained with precision to support your application's integrity.
 
 
-## Table of Contents
-
-- [Features](#features)
-- [Data Source and Update Frequency](#data-source-and-update-frequency)
-- [Why Choose This Dataset](#why-choose-this-dataset)
-- [Premium License Option](#premium-license-option)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [SDKs](#sdks)
-  - [Python SDK](#python-sdk)
-  - [JavaScript SDK](#javascript-sdk)
-- [Contributing](#contributing)
-- [Sponsorships and Donations](#sponsorships-and-donations)
-- [Reporting Bugs or Issues](#reporting-bugs-or-issues)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
