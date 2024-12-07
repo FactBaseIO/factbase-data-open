@@ -103,6 +103,10 @@ Stay **informed** about updates to the dataset with FactBase's **Change Notifica
 
 This dataset is open-source and provided by FactBase.io, ensuring authoritative and accurate ISO 3166-1 data. Updates to the open-source dataset occur every 2 weeks. In case of any data changes, they will be reflected in the next update cycle.
 
+
+
+
+
 ## Why Choose This Dataset
 
 Keeping your applications up-to-date with accurate country codes is crucial. With frequent updates and guaranteed accuracy, this dataset helps you maintain data integrity, improve user experience, and reduce the risk of errors caused by outdated information.
@@ -168,3 +172,47 @@ SOFTWARE.**
 
 For more details, see the [LICENSE](https://github.com/FactBaseIO/factbase-open-data/blob/main/LICENSE) file.
 
+## FactBase Services
+
+### Consulting by Expert Data Scientists
+
+At **FactBase**, we offer specialized consulting services led by data scientists with deep expertise in managing country-related data within complex systems, workflows, and databases. Our consultants bring years of experience in the practical application of ISO 3166-1 country codes, guiding organizations on how to best integrate this crucial data into their systems and processes.
+
+We provide tailored guidance on:
+
+- **Handling Country Data in Code**: Implementing robust country code systems into your programming environment while ensuring consistency and accuracy.
+- **Optimizing Systems and Workflows**: Designing systems and workflows that efficiently manage country data across your operations, ensuring high availability and performance.
+- **Best Practices for Databases**: Advising on how to structure, index, and query country data within relational and NoSQL databases to maximize speed and scalability.
+- **Effective API Integration**: Helping you develop and optimize APIs that leverage country code data, ensuring smooth and efficient data exchange between systems.
+
+These services are designed for organizations that require a sophisticated and highly structured approach to integrating country data at scale, empowering teams with the knowledge and strategies needed for long-term success.
+
+---
+
+### Custom Implementations
+
+FactBase offers **custom implementation services** that extend beyond traditional consultation. Our team works closely with you to design and develop bespoke system architectures tailored to your unique needs. Whether you're looking to integrate country codes into an existing infrastructure or build a new system from the ground up, FactBase can provide the expertise and technical leadership necessary to bring your vision to life.
+
+We specialize in:
+
+- **System Architecture Design**: Crafting comprehensive architectural solutions to seamlessly incorporate country data at the core of your enterprise systems.
+- **Custom Development**: Building tailored applications and processes that are specifically designed to handle country codes in the context of your industry and requirements.
+- **Scalable Solutions**: Implementing custom solutions that evolve with your organization, ensuring they can scale with your business growth and technical demands.
+- **Data Integration and Automation**: Streamlining country data integration and ensuring automated updates across systems, reducing manual intervention and potential errors.
+
+Our focus is to provide you with flexible, scalable, and future-proof solutions that align with industry best practices, ensuring your system is both efficient and adaptable to evolving needs.
+
+---
+
+### Services for Startups
+
+We understand the unique challenges faced by **startups** as they scale rapidly and innovate in competitive markets. FactBase offers dedicated services tailored for startups, ensuring you can integrate and manage country code data efficiently from day one, without the overhead of complex infrastructure or resources.
+
+Our services for startups include:
+
+- **Lean Data Solutions**: Tailored, lightweight solutions that are quick to deploy, ensuring that country data is easily accessible and integrated into your startup's workflows.
+- **Scalable Infrastructure**: We help design systems that grow with your startup, making it easy to add more countries, data formats, and integration points as your business expands.
+- **Affordable Expertise**: Leverage our world-class data scientists and architects without the burden of hiring a full-time team. We offer affordable, high-impact consulting that accelerates your data integration process.
+- **Agile Implementation**: FactBase works with your team in agile sprints to rapidly implement the most efficient and scalable data solutions, allowing your startup to focus on innovation while we handle the data infrastructure.
+
+Whether you're building a new product or refining an existing one, our solutions ensure that country data is a seamless part of your operational foundation, enabling your startup to grow without data limitations.
