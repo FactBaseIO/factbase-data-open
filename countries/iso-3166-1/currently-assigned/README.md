@@ -6,6 +6,15 @@
 
 A comprehensive, authoritative, and frequently updated dataset of ISO 3166-1 country codes provided by FactBase.io. This open-source dataset ensures you have access to the most current country codes and related information for your applications.
 
+A **comprehensive**, **authoritative**, and **frequently updated** dataset of ISO 3166-1 country codes provided by [FactBase.io](https://factbase.io). This open-source dataset ensures you have access to the most current country codes and related information for your applications.
+
+🔒 **Guaranteed Consistency:** Our data structure and naming conventions remain **unchanged**, ensuring seamless integration into your projects.
+
+🗓️ **Regular Updates:** Updated **every 14 days**, so you always have the latest country codes at your fingertips.
+
+✅ **Guaranteed Accuracy:** We provide **accurate** and reliable data, maintained with precision to support your application's integrity.
+
+
 ## Table of Contents
 
 - [Features](#features)
