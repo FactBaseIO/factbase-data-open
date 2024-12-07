@@ -96,6 +96,10 @@ Stay **informed** about updates to the dataset with FactBase's **Change Notifica
 - 🔄 **ISO Updates**: Get updates whenever changes occur in the ISO 3166-1 standard, such as modifications to existing country codes or details.
 - 🚨 **Country Status Changes**: Be notified when a country ceases to exist, either due to geopolitical changes or other factors.
 
+### Available Notification Methods:
+- **Email (Forever Free)**: Get notifications delivered straight to your inbox for easy tracking and action.
+- **Webhook (Premium)**: Receive real-time updates pushed directly to your system via a webhook for seamless integration.
+- **Slack (Premium)**: Stay informed by receiving alerts directly in your Slack channels for real-time collaboration.
 
 
 ## Features
