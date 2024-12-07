@@ -1,4 +1,4 @@
-# SO 3166-1 Country Codes Dataset
+# ISO 3166-1 Currently Assigned Country Codes Dataset
 
 ![License](https://img.shields.io/github/license/yourusername/iso-3166-1-dataset)
 ![Updates](https://img.shields.io/badge/updates-every%202%20weeks-blue)
