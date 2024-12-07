@@ -27,7 +27,7 @@
 
 🗓️ **Guaranteed Regular Updates:** Updated **every 14 days** to keep you current with the latest country codes, or **[daily with a Premium License](https://factbase.io/premium)** for even greater precision and reliability.
 
-✅ **Guaranteed Accuracy:** We provide **accurate** and reliable data, maintained with precision to support your application's integrity.
+✅ **Guaranteed Accuracy:** We provide **accurate** and **reliable data**, maintained with precision to support your application's integrity.
 
 
 
