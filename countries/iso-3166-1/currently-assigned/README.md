@@ -34,6 +34,9 @@
 
 ## Data Points
 
+> [!IMPORTANT]  
+> The **data structure**, **field names**, and **naming conventions** are **fixed and will never change**, providing stable and reliable integration into your projects without the risk of future disruptions.
+
 The dataset includes the following data points, providing detailed information about each country:
 
 | **Field Name**    | **dType**       | **Case**       | **Description**                                                                 |
@@ -47,8 +50,7 @@ The dataset includes the following data points, providing detailed information a
 | `status`          | `string`        | `snake`      | The current ISO status of the country (e.g., `officially_assigned`, `unassigned`). In this dataset, all countries are set to `officially_assigned`. |
 | `year_assigned`   | `integer`       | `N/A`            | The year in which the ISO code was officially assigned.                         |
 
-> [!IMPORTANT]  
-> The **data structure**, **field names**, and **naming conventions** are **fixed and will never change**, providing stable and reliable integration into your projects without the risk of future disruptions.
+
 
 These data points ensure you have a complete and up-to-date source of truth of currently assigned ISO 3166-1 country codes for integration into your applications.
 
