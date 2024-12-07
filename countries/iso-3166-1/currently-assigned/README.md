@@ -109,7 +109,9 @@ Discover more about the **[Premium License](https://factbase.io/premium)** and h
 
 
 ## License
-MIT License
+![License](https://img.shields.io/github/license/FactBaseIO/factbase-open-data?style=for-the-badge)
+
+This project is licensed under the **MIT License**.
 
 Copyright (c) 2024 FactBase | Cleip Inc.
 
